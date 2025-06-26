@@ -138,6 +138,7 @@ docker-compose exec app php artisan migrate:fresh --seed
 - Migrations: `database/migrations/`
 - Factory: `database/factories/ContactFactory.php`
 - Seeder: `database/seeders/ContactsTableSeeder.php`
+![Captura de tela 2025-06-26 184825](https://github.com/user-attachments/assets/501b91b4-aa07-4d1d-b9ae-05b032deb407)
 
 Campos adicionais: cidade, endereço, skype, telefone, data de nascimento
 
